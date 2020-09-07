@@ -1,6 +1,6 @@
 # DM BikeShare
 
-![](C:\Users\lrinc\DataAustin2020\bikesharing\images\bikes.JPG)
+![](https://github.com/lrincon34/bikesharing/blob/master/images/bikes.JPG)
 
 The DM Bike sharing business that we want to start in Des Moines would be a remarkable business to start as it would allow locals and tourists to take advantage of borrowing a bike for short-term trips at a low-cost. Based on our analysis, the bikes would be stationed in docks at the most popular pedestrian zones in the city such as plazas, courtyards, downtown, and at all major tourist attractions. It is not only a flexible transportation serivce, but it also has health benefits and it helps the environment by reducing energy use and emissons in the transport sector.
 
