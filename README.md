@@ -33,7 +33,7 @@ We understand that as investors you want to know that this program will would wo
 </center>
 
 **3. What effect does it have on possible business in Des Moines?**
-- Although there's **26%** more females in Des Moines than in New York City and **16%** less males, according to research, the gap between men and women's bicycling participation isn't so large. Based on a survey it has been found that of the people who ride bikes, 43% are women and 57% are men. (Braker, Sarah. *"New Resarch On Women's Bicycling Participation Reveals Insights-And Some Surprises"*. 28 May 2015. https://peopleforbikes.org. 7 Septmeber 2020.)
+- Although there's **26%** more females in Des Moines than in New York City and **16%** less males, according to research, the gap between men and women's bicycling participation isn't so large. <ins>Based on a survey it has been found that of the people who ride bikes, 43% are women and 57% are men.</ins> (Braker, Sarah. *"New Resarch On Women's Bicycling Participation Reveals Insights-And Some Surprises"*. 28 May 2015. https://peopleforbikes.org. 7 Septmeber 2020.)
 
 - Therefore having almost a 50/50 gender diversity will not have a great impact on the bike-sharing program. 
 
