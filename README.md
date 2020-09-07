@@ -10,7 +10,7 @@ Our idea to start the business in Des Moines, came after a trip to NeW York City
 
 ## Why Would The Bike-Sharing Program Work?
 
-We understand that as investors you want to know that this program will would work here in Des Moines as it does in New York City. We have done extensive research and confirmed that there are several reasons why it would. We created a Tableau Story [link to dashboard] () specifically detailing how **Gender Diversity** can be a challenge and how we will overcome it.
+We understand that as investors you want to know that this program will would work here in Des Moines as it does in New York City. We have done extensive research and confirmed that there are several reasons why it would. We created a Tableau Story [link to dashboard] (https://public.tableau.com/views/Module-14-Challenge/DMBikeShare?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) specifically detailing how **Gender Diversity** can be a challenge and how we will overcome it.
 
 **1. We will start by giving you the percent of gender diversity in Des Moines?**
 
