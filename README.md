@@ -37,5 +37,7 @@ We understand that as investors you want to know that this program will would wo
 
 - Therefore having almost a 50/50 gender diversity will not have a great impact on the bike-sharing program. 
 
+## Additional Information to Support DM BikeShare
+Des Moines lacks a healthier, more environment friendly transportation business. According to an article published by Alexandros Nikitas, "The Global Bike Sharing Boom- Why Cities Love a Cycling Scheme," <ins>the benefits of bike sharing schemes include transport flexibility, reductions to vehicle emissions, health benefits, reduced congestion and fuel consumption, as well as financial savings for individuals.</ins> **This business will greatly benefit our city of Des Moines in so many ways.**
 
 
